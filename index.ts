@@ -1,5 +1,5 @@
 
-fizzBuzz(10, 25)
+fizzBuzz(10, 25);
 
 function fizzBuzz(numberOne: number, numberTwo: number): void {
 
